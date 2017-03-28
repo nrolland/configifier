@@ -20,6 +20,7 @@ what's this, then?
   [multiarg](https://hackage.haskell.org/package/multiarg),
   [yaml-config](https://hackage.haskell.org/package/yaml-config),
   [getopt-generics](https://hackage.haskell.org/package/getopt-generics).
+  [envy](https://hackage.haskell.org/package/envy)
   let me know what i've missed.)
 
 - it is inspired by
